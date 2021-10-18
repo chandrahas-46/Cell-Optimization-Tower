@@ -68,3 +68,5 @@ new_column = pd.Series(['1', '2', '3'], name='Tower', index=[0, 1, 2])
 df.update(new_column)
 
 results
+
+#THANK YOU :)
